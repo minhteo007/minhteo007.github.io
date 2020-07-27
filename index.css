@@ -1,0 +1,23 @@
+
+html {
+    width: 900px;
+    margin: 0 auto;
+    font-family: 'lato', sans-serif;
+    font-size: 19px;
+  background-color: wheat;
+}
+.paragraph {
+    text-align: center;
+    word-spacing: 4px;
+}
+h1 {
+    text-align: center;
+    margin: 16px 0;
+}
+.container {
+    line-height: 140%;
+}
+.paragraph2{
+    float: right;
+    margin-bottom: 20px;
+}
